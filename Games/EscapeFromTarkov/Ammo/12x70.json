@@ -325,7 +325,7 @@
     ]
 },{
     "Name": "FTX Custom Lite Slug",
-    "Damage": 135,
+    "Damage": 183,
     "Projectiles": 1,
     "Penetration": 20,
     "ArmorDamage": 50,
