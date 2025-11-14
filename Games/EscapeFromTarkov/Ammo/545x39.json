@@ -1,0 +1,301 @@
+/**
+	5.45x39mm 7N40 FM	55	42	45	+50	-10	+20	+15	+35	+75.2	915	Prapor LL4 after Calibration
+	5.45x39mm BP gs FM	48	45	46	-3	+7			+35	+59.3	890	Workbench LV3 after Gendarmerie - District Patrol
+	5.45x39mm BS gs FM	45	54	57	-4	+10			+45	+69.9	830	Loot only
+	5.45x39mm BT gs T	54	37	44	-4	+5			+50	+68.2	880	Prapor LL2 (Barter) Prapor LL4
+	5.45x39mm FMJ	55	24	38						+43.4	884	Prapor LL2 after Delivery From the Past Ref LL2
+	5.45x39mm HP	76	9	15	+3	-3	+15	+15		+41.6	884	Jaeger LL1
+	5.45x39mm PP gs	51	34	42	-2	+3			+20	+54	886	Ref LL3 Workbench LV2 after The Punisher - Part 3
+	5.45x39mm PPBS gs Igolnik FM	37	62	59	-5	+15			+70	+77	905	Loot only
+	5.45x39mm PRS gs	70	13	24		-5			+15	+50.5	866	Prapor LL1
+	5.45x39mm PS gs	56	28	40					+10	+48.7	890	Prapor LL3
+	5.45x39mm SP	67	15	31	+5	-5	+10	+10		+45.1	873	Skier LL1
+	5.45x39mm T gs T	59	20	36	-3				+15	+52.2	883	Prapor LL2
+	5.45x39mm US gs S	65	17	33		-15			-20	+32.8	303	Prapor LL1
+*/
+
+[{
+    "Name": "5.45x39mm 7N40",
+    "Damage": 55,
+    "Projectiles": 1,
+    "Penetration": 42,
+    "ArmorDamage": 45,
+    "Accuracy": 50,
+    "Recoil": -10,
+    "LightBleed": 20,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 35,
+    "Heat": 75.2,
+    "Speed": 915,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "Calibration"
+        }
+    ]
+},{
+    "Name": "5.45x39mm BP gs",
+    "Damage": 48,
+    "Projectiles": 1,
+    "Penetration": 45,
+    "ArmorDamage": 46,
+    "Accuracy": -3,
+    "Recoil": 7,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 59.3,
+    "Speed": 890,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Gendarmerie - District Patrol"
+        }
+    ]
+},{
+    "Name": "5.45x39mm BS gs",
+    "Damage": 45,
+    "Projectiles": 1,
+    "Penetration": 54,
+    "ArmorDamage": 57,
+    "Accuracy": -4,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 45,
+    "Heat": 69.9,
+    "Speed": 830,
+    "FragmentationChance": 0,
+    "Vendors": [{
+        "Name": "Loot Only",
+        "Price": 0,
+        "Level": 0
+    }]
+},{
+    "Name": "5.45x39mm BT gs",
+    "Damage": 54,
+    "Projectiles": 1,
+    "Penetration": 37,
+    "ArmorDamage": 44,
+    "Accuracy": -4,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 68.2,
+    "Speed": 880,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor (Barter)",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "5.45x39mm FMJ",
+    "Damage": 55,
+    "Projectiles": 1,
+    "Penetration": 24,
+    "ArmorDamage": 38,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 43,
+    "Heat": 43.4,
+    "Speed": 884,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "Delivery From the Past Ref LL2"
+        }
+    ]
+},{
+    "Name": "5.45x39mm HP",
+    "Damage": 76,
+    "Projectiles": 1,
+    "Penetration": 9,
+    "ArmorDamage": 15,
+    "Accuracy": 3,
+    "Recoil": -3,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 41,
+    "Heat": 41.6,
+    "Speed": 884,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "5.45x39mm PP gs",
+    "Damage": 51,
+    "Projectiles": 1,
+    "Penetration": 34,
+    "ArmorDamage": 42,
+    "Accuracy": -2,
+    "Recoil": 3,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 54,
+    "Speed": 886,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "The Punisher - Part 3"
+        }
+    ]
+},{
+    "Name": "5.45x39mm PPBS gs Igolnik",
+    "Damage": 37,
+    "Projectiles": 1,
+    "Penetration": 62,
+    "ArmorDamage": 59,
+    "Accuracy": -5,
+    "Recoil": 15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 70,
+    "Heat": 77,
+    "Speed": 905,
+    "FragmentationChance": 0,
+    "Vendors": [{
+        "Name": "Loot Only",
+        "Price": 0,
+        "Level": 0
+    }]
+},{
+    "Name": "5.45x39mm PRS gs",
+    "Damage": 70,
+    "Projectiles": 1,
+    "Penetration": 13,
+    "ArmorDamage": 24,
+    "Accuracy": 0,
+    "Recoil": -5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 50.5,
+    "Speed": 866,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "5.45x39mm PS gs",
+    "Damage": 56,
+    "Projectiles": 1,
+    "Penetration": 28,
+    "ArmorDamage": 40,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 10,
+    "Heat": 48.7,
+    "Speed": 890,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "5.45x39mm SP",
+    "Damage": 67,
+    "Projectiles": 1,
+    "Penetration": 15,
+    "ArmorDamage": 31,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 45,
+    "Heat": 45.1,
+    "Speed": 873,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "5.45x39mm T gs",
+    "Damage": 59,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 36,
+    "Accuracy": -3,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 52.2,
+    "Speed": 883,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "5.45x39mm US gs S",
+    "Damage": 65,
+    "Projectiles": 1,
+    "Penetration": 17,
+    "ArmorDamage": 33,
+    "Accuracy": 0,
+    "Recoil": -15,
+    "LightBleed": 0,
+    "HeavyBleed": -20,
+    "DurabilityBurn": 32,
+    "Heat": 32.8,
+    "Speed": 303,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
