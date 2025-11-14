@@ -3,7 +3,7 @@
     "Damage": 37,
     "Projectiles": 8,
     "Penetration": 1,
-    "ArmorDamage": 26,
+    "ArmorDamage": 15,
     "Accuracy": 0,
     "Recoil": 0,
     "LightBleed": 0,
@@ -15,13 +15,8 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 37,
+            "Price": 0,
             "Level": 1
-        },
-        {
-            "Name": "Jaeger",
-            "Price": 37,
-            "Level": 2
         }
     ]
 },{
@@ -41,13 +36,18 @@
     "Vendors": [
         {
             "Name": "Skier",
-            "Price": 45,
+            "Price": 0,
+            "Level": 1
+        },
+        {
+            "Name": "Jaeger",
+            "Price": 0,
             "Level": 1
         }
     ]
 },{
     "Name": "6.5mm Express Buckshot",
-    "Damage": 42,
+    "Damage": 35,
     "Projectiles": 9,
     "Penetration": 3,
     "ArmorDamage": 26,
@@ -62,13 +62,13 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 50,
+            "Price": 0,
             "Level": 1
         }
     ]
 },{
     "Name": "8.5mm Magnum Buckshot",
-    "Damage": 45,
+    "Damage": 50,
     "Projectiles": 8,
     "Penetration": 2,
     "ArmorDamage": 26,
@@ -83,13 +83,13 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 75,
+            "Price": 0,
             "Level": 3
         }
     ]
 },{
     "Name": "Flechette",
-    "Damage": 30,
+    "Damage": 25,
     "Projectiles": 8,
     "Penetration": 31,
     "ArmorDamage": 26,
@@ -104,13 +104,18 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 90,
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
             "Level": 3
         }
     ]
 },{
     "Name": "Piranha",
-    "Damage": 22,
+    "Damage": 25,
     "Projectiles": 10,
     "Penetration": 24,
     "ArmorDamage": 22,
@@ -125,13 +130,18 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 60,
+            "Price": 0,
             "Level": 2
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 1
         }
     ]
 },{
     "Name": "Lead Slug",
-    "Damage": 55,
+    "Damage": 167,
     "Projectiles": 1,
     "Penetration": 15,
     "ArmorDamage": 55,
@@ -146,19 +156,29 @@
     "Vendors": [
         {
             "Name": "Skier",
-            "Price": 80,
+            "Price": 0,
+            "Level": 1
+        },
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 1
+        },
+        {
+            "Name": "Jaeger",
+            "Price": 0,
             "Level": 1
         }
     ]
 },{
     "Name": "Makeshift .50 BMG Slug",
-    "Damage": 65,
-    "Projectiles": 2,
+    "Damage": 197,
+    "Projectiles": 1,
     "Penetration": 26,
     "ArmorDamage": 57,
     "Accuracy": 90,
-    "Recoil": 0,
-    "LightBleed": 25,
+    "Recoil": 25,
+    "LightBleed": 0,
     "HeavyBleed": 15,
     "DurabilityBurn": 100,
     "Heat": 151,
@@ -167,13 +187,18 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 120,
+            "Price": 0,
             "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
         }
     ]
 },{
     "Name": "SuperFormance HP Slug",
-    "Damage": 12,
+    "Damage": 220,
     "Projectiles": 1,
     "Penetration": 5,
     "ArmorDamage": 12,
@@ -188,13 +213,13 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 110,
+            "Price": 0,
             "Level": 2
         }
     ]
 },{
     "Name": "Poleva-3 Slug",
-    "Damage": 40,
+    "Damage": 140,
     "Projectiles": 1,
     "Penetration": 17,
     "ArmorDamage": 40,
@@ -209,18 +234,13 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 37,
+            "Price": 0,
             "Level": 1
-        },
-        {
-            "Name": "Jaeger",
-            "Price": 37,
-            "Level": 2
         }
     ]
 },{
     "Name": "Poleva-6u Slug",
-    "Damage": 50,
+    "Damage": 150,
     "Projectiles": 1,
     "Penetration": 20,
     "ArmorDamage": 50,
@@ -235,20 +255,20 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 50,
+            "Price": 0,
             "Level": 2
         }
     ]
 },{
     "Name": "Dual Sabot Slug",
-    "Damage": 65,
+    "Damage": 85,
     "Projectiles": 2,
     "Penetration": 17,
     "ArmorDamage": 65,
     "Accuracy": 100,
     "Recoil": 15,
     "LightBleed": 0,
-    "HeavyBleed": 0,
+    "HeavyBleed": 15,
     "DurabilityBurn": 50,
     "Heat": 113.4,
     "Speed": 415,
@@ -262,7 +282,7 @@
     ]
 },{
     "Name": "Copper Sabot Premier HP Slug FM",
-    "Damage": 46,
+    "Damage": 206,
     "Projectiles": 1,
     "Penetration": 14,
     "ArmorDamage": 46,
@@ -282,8 +302,8 @@
         }
     ]
 },{
-    "Name": "AP-20 Armor-Piercing Slug FM",
-    "Damage": 65,
+    "Name": "AP-20 Armor-Piercing Slug",
+    "Damage": 164,
     "Projectiles": 1,
     "Penetration": 37,
     "ArmorDamage": 65,
@@ -298,14 +318,14 @@
     "Vendors": [
         {
             "Name": "Workbench",
-            "Price": 150,
+            "Price": 0,
             "Level": 3,
             "Quest": "The Huntsman Path - Outcasts"
         }
     ]
 },{
     "Name": "FTX Custom Lite Slug",
-    "Damage": 50,
+    "Damage": 135,
     "Projectiles": 1,
     "Penetration": 20,
     "ArmorDamage": 50,
@@ -320,20 +340,20 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 80,
+            "Price": 0,
             "Level": 2
         }
     ]
 },{
     "Name": "Grizzly 40 Slug",
-    "Damage": 48,
+    "Damage": 190,
     "Projectiles": 1,
     "Penetration": 12,
     "ArmorDamage": 48,
     "Accuracy": 80,
     "Recoil": 20,
-    "LightBleed": 10,
-    "HeavyBleed": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
     "DurabilityBurn": 50,
     "Heat": 102.1,
     "Speed": 390,
@@ -341,14 +361,14 @@
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 60,
+            "Price": 0,
             "Level": 1
         }
     ]
 },{
     "Name": "RIP",
-    "Damage": 11,
-    "Projectiles": 10,
+    "Damage": 265,
+    "Projectiles": 1,
     "Penetration": 2,
     "ArmorDamage": 11,
     "Accuracy": 80,
@@ -364,6 +384,12 @@
             "Name": "Jaeger",
             "Price": 200,
             "Level": 4
+        },
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "Bullshit"
         }
     ]
 }
