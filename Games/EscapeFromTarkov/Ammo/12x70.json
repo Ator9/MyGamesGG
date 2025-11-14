@@ -17,6 +17,11 @@
             "Name": "Jaeger",
             "Price": 37,
             "Level": 1
+        },
+        {
+            "Name": "Jaeger",
+            "Price": 37,
+            "Level": 2
         }
     ]
 },{
