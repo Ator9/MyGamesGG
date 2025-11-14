@@ -1,0 +1,44 @@
+[{
+    "Name": "5.25mm Buckshot",
+    "Damage": 37,
+    "Projectiles": 8,
+    "Penetration": 1,
+    "ArmorDamage": 26,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 100.8,
+    "Speed": 330,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 37,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "5.25mm Flechette",
+    "Damage": 45,
+    "Projectiles": 16,
+    "Penetration": 2,
+    "ArmorDamage": 30,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 120.5,
+    "Speed": 400,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 100,
+            "Level": 2
+        }
+    ]
+}
+]
