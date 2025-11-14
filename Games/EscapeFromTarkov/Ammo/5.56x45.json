@@ -1,0 +1,226 @@
+[{
+    "Name": "FMJ",
+    "Damage": 57,
+    "Projectiles": 1,
+    "Penetration": 23,
+    "ArmorDamage": 33,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 50.1,
+    "Speed": 957,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "Tigr Safari"
+        }
+    ]
+},{
+    "Name": "HP",
+    "Damage": 79,
+    "Projectiles": 1,
+    "Penetration": 7,
+    "ArmorDamage": 22,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 0,
+    "Heat": 55.8,
+    "Speed": 947,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "M855",
+    "Damage": 54,
+    "Projectiles": 1,
+    "Penetration": 31,
+    "ArmorDamage": 37,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 61.5,
+    "Speed": 922,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "M855A1 FM",
+    "Damage": 49,
+    "Projectiles": 1,
+    "Penetration": 44,
+    "ArmorDamage": 47,
+    "Accuracy": -5,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 34,
+    "Heat": 71,
+    "Speed": 945,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Your Car Needs a Service"
+        }
+    ]
+},{
+    "Name": "M856 T",
+    "Damage": 60,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 26,
+    "Accuracy": -2,
+    "Recoil": -2,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 63.4,
+    "Speed": 874,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "M856A1 T",
+    "Damage": 52,
+    "Projectiles": 1,
+    "Penetration": 38,
+    "ArmorDamage": 44,
+    "Accuracy": -4,
+    "Recoil": 4,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 65.3,
+    "Speed": 940,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "M995 FM",
+    "Damage": 42,
+    "Projectiles": 1,
+    "Penetration": 53,
+    "ArmorDamage": 52,
+    "Accuracy": -7,
+    "Recoil": 8,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 70,
+    "Heat": 80.5,
+    "Speed": 1013,
+    "Vendors": [{
+        "Name": "Loot only",
+        "Price": 0,
+        "Level": 0
+    }]
+},{
+    "Name": "MK 255 Mod 0 (RRLP)",
+    "Damage": 72,
+    "Projectiles": 1,
+    "Penetration": 11,
+    "ArmorDamage": 24,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 0,
+    "Heat": 59.6,
+    "Speed": 936,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "MK 318 Mod 0 (SOST)",
+    "Damage": 53,
+    "Projectiles": 1,
+    "Penetration": 33,
+    "ArmorDamage": 39,
+    "Accuracy": 2,
+    "Recoil": 3,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 15,
+    "Heat": 52,
+    "Speed": 902,
+    "Vendors": [
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "SSA AP FM",
+    "Damage": 38,
+    "Projectiles": 1,
+    "Penetration": 57,
+    "ArmorDamage": 58,
+    "Accuracy": -9,
+    "Recoil": 6,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 80,
+    "Heat": 90,
+    "Speed": 1013,
+    "Vendors": [{
+        "Name": "Loot only",
+        "Price": 0,
+        "Level": 0
+    }]
+},{
+    "Name": "Warmageddon",
+    "Damage": 88,
+    "Projectiles": 1,
+    "Penetration": 3,
+    "ArmorDamage": 11,
+    "Accuracy": 10,
+    "Recoil": 10,
+    "LightBleed": 20,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 0,
+    "Heat": 53.9,
+    "Speed": 936,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "Humanitarian Supplies"
+        }
+    ]
+}
+]
