@@ -1,5 +1,5 @@
 [{
-    "Name": "5.45x39mm 7N40",
+    "Name": "7N40",
     "Damage": 55,
     "Projectiles": 1,
     "Penetration": 42,
@@ -21,7 +21,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm BP gs",
+    "Name": "BP gs",
     "Damage": 48,
     "Projectiles": 1,
     "Penetration": 45,
@@ -43,7 +43,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm BS gs",
+    "Name": "BS gs",
     "Damage": 45,
     "Projectiles": 1,
     "Penetration": 54,
@@ -62,7 +62,7 @@
         "Level": 0
     }]
 },{
-    "Name": "5.45x39mm BT gs",
+    "Name": "BT gs",
     "Damage": 54,
     "Projectiles": 1,
     "Penetration": 37,
@@ -88,7 +88,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm FMJ",
+    "Name": "FMJ",
     "Damage": 55,
     "Projectiles": 1,
     "Penetration": 24,
@@ -110,7 +110,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm HP",
+    "Name": "HP",
     "Damage": 76,
     "Projectiles": 1,
     "Penetration": 9,
@@ -131,7 +131,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm PP gs",
+    "Name": "PP gs",
     "Damage": 51,
     "Projectiles": 1,
     "Penetration": 34,
@@ -158,7 +158,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm PPBS gs Igolnik",
+    "Name": "PPBS gs Igolnik",
     "Damage": 37,
     "Projectiles": 1,
     "Penetration": 62,
@@ -177,7 +177,7 @@
         "Level": 0
     }]
 },{
-    "Name": "5.45x39mm PRS gs",
+    "Name": "PRS gs",
     "Damage": 70,
     "Projectiles": 1,
     "Penetration": 13,
@@ -198,7 +198,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm PS gs",
+    "Name": "PS gs",
     "Damage": 56,
     "Projectiles": 1,
     "Penetration": 28,
@@ -219,7 +219,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm SP",
+    "Name": "SP",
     "Damage": 67,
     "Projectiles": 1,
     "Penetration": 15,
@@ -240,7 +240,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm T gs",
+    "Name": "T gs",
     "Damage": 59,
     "Projectiles": 1,
     "Penetration": 20,
@@ -261,7 +261,7 @@
         }
     ]
 },{
-    "Name": "5.45x39mm US gs S",
+    "Name": "US gs S",
     "Damage": 65,
     "Projectiles": 1,
     "Penetration": 17,
