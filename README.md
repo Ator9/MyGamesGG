@@ -1,2 +1,2 @@
-# MyGamesGG
-Games Data
+# MyGames.GG - Game Data
+[Games Data](https://mygames.gg/)
