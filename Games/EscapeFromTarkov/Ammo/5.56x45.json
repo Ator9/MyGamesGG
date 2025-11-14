@@ -60,7 +60,7 @@
         }
     ]
 },{
-    "Name": "M855A1 FM",
+    "Name": "M855A1",
     "Damage": 49,
     "Projectiles": 1,
     "Penetration": 44,
@@ -81,7 +81,7 @@
         }
     ]
 },{
-    "Name": "M856 T",
+    "Name": "M856",
     "Damage": 60,
     "Projectiles": 1,
     "Penetration": 18,
@@ -101,7 +101,7 @@
         }
     ]
 },{
-    "Name": "M856A1 T",
+    "Name": "M856A1",
     "Damage": 52,
     "Projectiles": 1,
     "Penetration": 38,
@@ -121,7 +121,7 @@
         }
     ]
 },{
-    "Name": "M995 FM",
+    "Name": "M995",
     "Damage": 42,
     "Projectiles": 1,
     "Penetration": 53,
@@ -184,7 +184,7 @@
         }
     ]
 },{
-    "Name": "SSA AP FM",
+    "Name": "SSA AP",
     "Damage": 38,
     "Projectiles": 1,
     "Penetration": 57,
