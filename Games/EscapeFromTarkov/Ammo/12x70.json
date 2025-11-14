@@ -25,24 +25,345 @@
         }
     ]
 },{
-    "Name": "5.25mm Flechette",
-    "Damage": 45,
-    "Projectiles": 16,
-    "Penetration": 2,
-    "ArmorDamage": 30,
+    "Name": "7mm Buckshot",
+    "Damage": 39,
+    "Projectiles": 8,
+    "Penetration": 3,
+    "ArmorDamage": 26,
     "Accuracy": 0,
     "Recoil": 0,
     "LightBleed": 0,
     "HeavyBleed": 0,
     "DurabilityBurn": 0,
-    "Heat": 120.5,
-    "Speed": 400,
+    "Heat": 103.3,
+    "Speed": 415,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 45,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "6.5mm Express Buckshot",
+    "Damage": 42,
+    "Projectiles": 9,
+    "Penetration": 3,
+    "ArmorDamage": 26,
+    "Accuracy": 15,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 125.9,
+    "Speed": 430,
     "FragmentationChance": 0,
     "Vendors": [
         {
             "Name": "Jaeger",
-            "Price": 100,
+            "Price": 50,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "8.5mm Magnum Buckshot",
+    "Damage": 45,
+    "Projectiles": 8,
+    "Penetration": 2,
+    "ArmorDamage": 26,
+    "Accuracy": -15,
+    "Recoil": 115,
+    "LightBleed": 20,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 0,
+    "Heat": 146,
+    "Speed": 385,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 75,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Flechette",
+    "Damage": 30,
+    "Projectiles": 8,
+    "Penetration": 31,
+    "ArmorDamage": 26,
+    "Accuracy": -10,
+    "Recoil": 0,
+    "LightBleed": 25,
+    "HeavyBleed": 25,
+    "DurabilityBurn": 60,
+    "Heat": 115.9,
+    "Speed": 320,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 90,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Piranha",
+    "Damage": 22,
+    "Projectiles": 10,
+    "Penetration": 24,
+    "ArmorDamage": 22,
+    "Accuracy": -5,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 50,
+    "Heat": 110.8,
+    "Speed": 310,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 60,
             "Level": 2
+        }
+    ]
+},{
+    "Name": "Lead Slug",
+    "Damage": 55,
+    "Projectiles": 1,
+    "Penetration": 15,
+    "ArmorDamage": 55,
+    "Accuracy": 120,
+    "Recoil": 0,
+    "LightBleed": 10,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 50,
+    "Heat": 110.8,
+    "Speed": 370,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 80,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Makeshift .50 BMG Slug",
+    "Damage": 65,
+    "Projectiles": 2,
+    "Penetration": 26,
+    "ArmorDamage": 57,
+    "Accuracy": 90,
+    "Recoil": 0,
+    "LightBleed": 25,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 100,
+    "Heat": 151,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 120,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "SuperFormance HP Slug",
+    "Damage": 12,
+    "Projectiles": 1,
+    "Penetration": 5,
+    "ArmorDamage": 12,
+    "Accuracy": 170,
+    "Recoil": -15,
+    "LightBleed": 30,
+    "HeavyBleed": 40,
+    "DurabilityBurn": 20,
+    "Heat": 104.6,
+    "Speed": 594,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 110,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "Poleva-3 Slug",
+    "Damage": 40,
+    "Projectiles": 1,
+    "Penetration": 17,
+    "ArmorDamage": 40,
+    "Accuracy": 110,
+    "Recoil": -15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 108.3,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 37,
+            "Level": 1
+        },
+        {
+            "Name": "Jaeger",
+            "Price": 37,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "Poleva-6u Slug",
+    "Damage": 50,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 50,
+    "Accuracy": 115,
+    "Recoil": -10,
+    "LightBleed": 5,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 60,
+    "Heat": 135.9,
+    "Speed": 430,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 50,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "Dual Sabot Slug",
+    "Damage": 65,
+    "Projectiles": 2,
+    "Penetration": 17,
+    "ArmorDamage": 65,
+    "Accuracy": 100,
+    "Recoil": 15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 113.4,
+    "Speed": 415,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 70,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Copper Sabot Premier HP Slug FM",
+    "Damage": 46,
+    "Projectiles": 1,
+    "Penetration": 14,
+    "ArmorDamage": 46,
+    "Accuracy": 150,
+    "Recoil": 10,
+    "LightBleed": 35,
+    "HeavyBleed": 25,
+    "DurabilityBurn": 50,
+    "Heat": 105.8,
+    "Speed": 442,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 90,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "AP-20 Armor-Piercing Slug FM",
+    "Damage": 65,
+    "Projectiles": 1,
+    "Penetration": 37,
+    "ArmorDamage": 65,
+    "Accuracy": 80,
+    "Recoil": 50,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 50,
+    "Heat": 148.5,
+    "Speed": 510,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 150,
+            "Level": 3,
+            "Quest": "The Huntsman Path - Outcasts"
+        }
+    ]
+},{
+    "Name": "FTX Custom Lite Slug",
+    "Damage": 50,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 50,
+    "Accuracy": 135,
+    "Recoil": -25,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 118.4,
+    "Speed": 480,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 80,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "Grizzly 40 Slug",
+    "Damage": 48,
+    "Projectiles": 1,
+    "Penetration": 12,
+    "ArmorDamage": 48,
+    "Accuracy": 80,
+    "Recoil": 20,
+    "LightBleed": 10,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 102.1,
+    "Speed": 390,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 60,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "RIP",
+    "Damage": 11,
+    "Projectiles": 10,
+    "Penetration": 2,
+    "ArmorDamage": 11,
+    "Accuracy": 80,
+    "Recoil": 35,
+    "LightBleed": 40,
+    "HeavyBleed": 25,
+    "DurabilityBurn": 60,
+    "Heat": 138.5,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 200,
+            "Level": 4
         }
     ]
 }
