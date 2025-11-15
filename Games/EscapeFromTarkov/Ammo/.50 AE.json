@@ -1,6 +1,7 @@
 [{
     "Name": "Copper Solid",
     "Damage": 94,
+    "Projectiles": 1,
     "Penetration": 33,
     "ArmorDamage": 56,
     "Accuracy": 5,
@@ -21,6 +22,7 @@
 },{
     "Name": "FMJ",
     "Damage": 85,
+    "Projectiles": 1,
     "Penetration": 40,
     "ArmorDamage": 50,
     "Accuracy": 0,
@@ -41,6 +43,7 @@
 },{
     "Name": "Hawk JSP",
     "Damage": 122,
+    "Projectiles": 1,
     "Penetration": 26,
     "ArmorDamage": 28,
     "Accuracy": -5,
@@ -61,6 +64,7 @@
 },{
     "Name": "JHP",
     "Damage": 147,
+    "Projectiles": 1,
     "Penetration": 12,
     "ArmorDamage": 23,
     "Accuracy": -10,
