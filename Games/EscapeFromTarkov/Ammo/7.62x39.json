@@ -158,7 +158,7 @@
         }
     ]
 },{
-    "Name": "T-45M1 gzh T",
+    "Name": "T-45M1 gzh",
     "Damage": 65,
     "Projectiles": 1,
     "Penetration": 30,
@@ -179,7 +179,7 @@
         }
     ]
 },{
-    "Name": "US gzh S",
+    "Name": "US gzh",
     "Damage": 56,
     "Projectiles": 1,
     "Penetration": 29,
