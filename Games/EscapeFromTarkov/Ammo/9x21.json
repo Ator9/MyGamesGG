@@ -1,6 +1,7 @@
 [{
     "Name": "7N42 Zubilo",
     "Damage": 49,
+    "Projectiles": 1,
     "Penetration": 38,
     "ArmorDamage": 47,
     "Accuracy": -3,
@@ -21,6 +22,7 @@
 },{
     "Name": "7U4 S",
     "Damage": 53,
+    "Projectiles": 1,
     "Penetration": 27,
     "ArmorDamage": 44,
     "Accuracy": 0,
@@ -42,6 +44,7 @@
 {
     "Name": "BT gzh T",
     "Damage": 52,
+    "Projectiles": 1,
     "Penetration": 32,
     "ArmorDamage": 42,
     "Accuracy": -5,
@@ -68,6 +71,7 @@
 },{
     "Name": "P gzh",
     "Damage": 65,
+    "Projectiles": 1,
     "Penetration": 18,
     "ArmorDamage": 44,
     "Accuracy": 0,
@@ -93,6 +97,7 @@
 },{
     "Name": "PE gzh",
     "Damage": 80,
+    "Projectiles": 1,
     "Penetration": 15,
     "ArmorDamage": 63,
     "Accuracy": 3,
@@ -113,6 +118,7 @@
 },{
     "Name": "PS gzh",
     "Damage": 59,
+    "Projectiles": 1,
     "Penetration": 22,
     "ArmorDamage": 39,
     "Accuracy": 1,
