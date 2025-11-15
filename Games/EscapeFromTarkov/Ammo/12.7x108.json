@@ -1,0 +1,31 @@
+[{
+    "Name": "B-32",
+    "Damage": 182,
+    "Projectiles": 1,
+    "Penetration": 88,
+    "ArmorDamage": 88,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 818,
+    "FragmentationChance": 0,
+    "Vendors": []
+},{
+    "Name": "BZT-44M T",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 80,
+    "ArmorDamage": 95,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 818,
+    "FragmentationChance": 0,
+    "Vendors": []
+}]
