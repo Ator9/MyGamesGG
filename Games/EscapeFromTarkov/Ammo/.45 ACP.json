@@ -1,0 +1,122 @@
+[{
+    "Name": "AP S",
+    "Damage": 66,
+    "Projectiles": 1,
+    "Penetration": 38,
+    "ArmorDamage": 48,
+    "Accuracy": -5,
+    "Recoil": 7,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 70,
+    "Heat": 23,
+    "Speed": 299,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},
+{
+    "Name": "Hydra-Shok S",
+    "Damage": 100,
+    "Projectiles": 1,
+    "Penetration": 13,
+    "ArmorDamage": 30,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 10,
+    "Heat": 13.8,
+    "Speed": 274,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},
+{
+    "Name": "Lasermatch FMJ S T",
+    "Damage": 76,
+    "Projectiles": 1,
+    "Penetration": 19,
+    "ArmorDamage": 37,
+    "Accuracy": 10,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 10.7,
+    "Speed": 290,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},
+{
+    "Name": "Match FMJ S",
+    "Damage": 72,
+    "Projectiles": 1,
+    "Penetration": 25,
+    "ArmorDamage": 36,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -0.4,
+    "Speed": 340,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},
+{
+    "Name": "RIP S",
+    "Damage": 130,
+    "Projectiles": 1,
+    "Penetration": 3,
+    "ArmorDamage": 12,
+    "Accuracy": -5,
+    "Recoil": 0,
+    "LightBleed": 30,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 50,
+    "Heat": 16.8,
+    "Speed": 293,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 4,
+            "QuestUnlock": "Broadcast - Part 4"
+        }
+    ]
+}
+]
