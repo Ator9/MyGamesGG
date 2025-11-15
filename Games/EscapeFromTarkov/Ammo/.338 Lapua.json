@@ -1,5 +1,5 @@
 [{
-    "Name": ".338 Lapua Magnum AP",
+    "Name": "AP",
     "Damage": 115,
     "Projectiles": 1,
     "Penetration": 79,
@@ -20,7 +20,7 @@
         }
     ]
 },{
-    "Name": ".338 Lapua Magnum FMJ FM",
+    "Name": "FMJ FM",
     "Damage": 122,
     "Projectiles": 1,
     "Penetration": 47,
@@ -51,7 +51,7 @@
         }
     ]
 },{
-    "Name": ".338 Lapua Magnum TAC-X",
+    "Name": "TAC-X",
     "Damage": 196,
     "Projectiles": 1,
     "Penetration": 18,
@@ -72,7 +72,7 @@
         }
     ]
 },{
-    "Name": ".338 Lapua Magnum UCW",
+    "Name": "UCW",
     "Damage": 142,
     "Projectiles": 1,
     "Penetration": 32,

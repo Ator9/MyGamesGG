@@ -1,5 +1,5 @@
 [{
-    "Name": "R BS gs",
+    "Name": "BS gs",
     "Damage": 72,
     "Projectiles": 1,
     "Penetration": 70,
@@ -20,7 +20,7 @@
         }
     ]
 },{
-    "Name": "R BT gzh T",
+    "Name": "BT gzh T",
     "Damage": 78,
     "Projectiles": 1,
     "Penetration": 55,
@@ -42,11 +42,11 @@
             "Name": "Workbench",
             "Price": 0,
             "Level": 3,
-            "Quest": "The Tarkov Shooter - Part 7"
+            "Quest": "The Tarkov Shoote- Part 7"
         }
     ]
 },{
-    "Name": "R FMJ",
+    "Name": "FMJ",
     "Damage": 84,
     "Projectiles": 1,
     "Penetration": 36,
@@ -67,7 +67,7 @@
         }
     ]
 },{
-    "Name": "R HP BT",
+    "Name": "HP BT",
     "Damage": 102,
     "Projectiles": 1,
     "Penetration": 26,
@@ -88,7 +88,7 @@
         }
     ]
 },{
-    "Name": "R LPS gzh",
+    "Name": "LPS gzh",
     "Damage": 81,
     "Projectiles": 1,
     "Penetration": 42,
@@ -109,7 +109,7 @@
         }
     ]
 },{
-    "Name": "R PS gzh",
+    "Name": "PS gzh",
     "Damage": 84,
     "Projectiles": 1,
     "Penetration": 45,
@@ -127,11 +127,11 @@
             "Name": "Prapor",
             "Price": 0,
             "Level": 4,
-            "Quest": "The Punisher - Part 6"
+            "Quest": "The Punishe- Part 6"
         }
     ]
 },{
-    "Name": "R SNB gzh",
+    "Name": "SNB gzh",
     "Damage": 75,
     "Projectiles": 1,
     "Penetration": 62,
@@ -152,7 +152,7 @@
         }
     ]
 },{
-    "Name": "R SP BT",
+    "Name": "SP BT",
     "Damage": 92,
     "Projectiles": 1,
     "Penetration": 31,
@@ -174,7 +174,7 @@
         }
     ]
 },{
-    "Name": "R T-46M gzh T",
+    "Name": "T-46M gzh T",
     "Damage": 82,
     "Projectiles": 1,
     "Penetration": 41,
@@ -195,7 +195,7 @@
         }
     ]
 },{
-    "Name": "R Tungsten Carbide AP",
+    "Name": "Tungsten Carbide AP",
     "Damage": 98,
     "Projectiles": 1,
     "Penetration": 61,
