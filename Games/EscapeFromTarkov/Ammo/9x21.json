@@ -1,0 +1,135 @@
+[{
+    "Name": "7N42 Zubilo",
+    "Damage": 49,
+    "Penetration": 38,
+    "ArmorDamage": 47,
+    "Accuracy": -3,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 45,
+    "Speed": 400,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "7U4 S",
+    "Damage": 53,
+    "Penetration": 27,
+    "ArmorDamage": 44,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -10,
+    "Heat": -2.5,
+    "Speed": 300,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},
+{
+    "Name": "BT gzh T",
+    "Damage": 52,
+    "Penetration": 32,
+    "ArmorDamage": 42,
+    "Accuracy": -5,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 40,
+    "Heat": 25,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Test Drive - Part 2"
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "P gzh",
+    "Damage": 65,
+    "Penetration": 18,
+    "ArmorDamage": 44,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 10,
+    "Heat": 0,
+    "Speed": 413,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "PE gzh",
+    "Damage": 80,
+    "Penetration": 15,
+    "ArmorDamage": 63,
+    "Accuracy": 3,
+    "Recoil": -5,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 10,
+    "Heat": 0,
+    "Speed": 415,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "PS gzh",
+    "Damage": 59,
+    "Penetration": 22,
+    "ArmorDamage": 39,
+    "Accuracy": 1,
+    "Recoil": -3,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 18.8,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "The Bunker - Part 1"
+        }
+    ]
+}
+]
