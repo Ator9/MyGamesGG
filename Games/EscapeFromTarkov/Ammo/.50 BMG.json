@@ -1,0 +1,86 @@
+[{
+    "Name": "HP",
+    "Damage": 260,
+    "Projectiles": 1,
+    "Penetration": 34,
+    "ArmorDamage": 22,
+    "Accuracy": 15,
+    "Recoil": 15,
+    "LightBleed": 40,
+    "HeavyBleed": 70,
+    "DurabilityBurn": 0,
+    "Heat": 193.4,
+    "Speed": 880,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "M21 T",
+    "Damage": 220,
+    "Projectiles": 1,
+    "Penetration": 45,
+    "ArmorDamage": 55,
+    "Accuracy": 0,
+    "Recoil": 20,
+    "LightBleed": 30,
+    "HeavyBleed": 50,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 867,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "M33",
+    "Damage": 190,
+    "Projectiles": 1,
+    "Penetration": 56,
+    "ArmorDamage": 85,
+    "Accuracy": -5,
+    "Recoil": 25,
+    "LightBleed": 20,
+    "HeavyBleed": 40,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 887,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "M903 SLAP",
+    "Damage": 160,
+    "Projectiles": 1,
+    "Penetration": 115,
+    "ArmorDamage": 90,
+    "Accuracy": -10,
+    "Recoil": 28,
+    "LightBleed": 30,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 1220,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+}
+]
