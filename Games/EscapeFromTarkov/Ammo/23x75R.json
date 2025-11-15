@@ -1,5 +1,5 @@
 [{
-    "Name": "23x75mm Barrikada Slug",
+    "Name": "Barrikada Slug",
     "Damage": 192,
     "Projectiles": 1,
     "Penetration": 39,
@@ -21,7 +21,7 @@
     ]
 },
 {
-    "Name": "23x75mm Shrapnel-10 Buckshot",
+    "Name": "Shrapnel-10 Buckshot",
     "Damage": 87,
     "Projectiles": 8,
     "Penetration": 11,
@@ -42,7 +42,7 @@
         }
     ]
 },{
-    "Name": "23x75mm Shrapnel-25 Buckshot",
+    "Name": "Shrapnel-25 Buckshot",
     "Damage": 78,
     "Projectiles": 8,
     "Penetration": 10,
@@ -63,7 +63,7 @@
         }
     ]
 },{
-    "Name": "23x75mm Zvezda Flashbang Round",
+    "Name": "Zvezda Flashbang Round",
     "Damage": 0,
     "Projectiles": 0,
     "Penetration": 0,

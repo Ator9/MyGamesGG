@@ -1,5 +1,5 @@
 [{
-    "Name": "7.62x51 Ball 11 Long Range",
+    "Name": "Ball 11 Long Range",
     "Damage": 95,
     "Projectiles": 1,
     "Penetration": 59,
@@ -20,7 +20,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 BCP FMJ",
+    "Name": "BCP FMJ",
     "Damage": 83,
     "Projectiles": 1,
     "Penetration": 37,
@@ -46,7 +46,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 M61",
+    "Name": "M61",
     "Damage": 75,
     "Projectiles": 1,
     "Penetration": 55,
@@ -73,7 +73,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 M62 Tracer T",
+    "Name": "M62 Tracer T",
     "Damage": 82,
     "Projectiles": 1,
     "Penetration": 42,
@@ -94,7 +94,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 M80",
+    "Name": "M80",
     "Damage": 80,
     "Projectiles": 1,
     "Penetration": 43,
@@ -121,7 +121,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 M80A1",
+    "Name": "M80A1",
     "Damage": 73,
     "Projectiles": 1,
     "Penetration": 60,
@@ -143,7 +143,7 @@
     ]
 },{
 
-    "Name": "7.62x51 M993",
+    "Name": "M993",
     "Damage": 70,
     "Projectiles": 1,
     "Penetration": 65,
@@ -164,7 +164,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 TCW SP",
+    "Name": "TCW SP",
     "Damage": 85,
     "Projectiles": 1,
     "Penetration": 30,
@@ -190,7 +190,7 @@
         }
     ]
 },{
-    "Name": "7.62x51 Ultra Nosler",
+    "Name": "Ultra Nosler",
     "Damage": 105,
     "Projectiles": 1,
     "Penetration": 15,
