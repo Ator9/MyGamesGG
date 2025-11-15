@@ -1,0 +1,81 @@
+[{
+    "Name": "Copper Solid",
+    "Damage": 94,
+    "Penetration": 33,
+    "ArmorDamage": 56,
+    "Accuracy": 5,
+    "Recoil": 8,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 40,
+    "Heat": 115,
+    "Speed": 460,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "FMJ",
+    "Damage": 85,
+    "Penetration": 40,
+    "ArmorDamage": 50,
+    "Accuracy": 0,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 70,
+    "Heat": 138,
+    "Speed": 440,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Hawk JSP",
+    "Damage": 122,
+    "Penetration": 26,
+    "ArmorDamage": 28,
+    "Accuracy": -5,
+    "Recoil": 2,
+    "LightBleed": 25,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 0,
+    "Heat": 127,
+    "Speed": 465,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "JHP",
+    "Damage": 147,
+    "Penetration": 12,
+    "ArmorDamage": 23,
+    "Accuracy": -10,
+    "Recoil": 5,
+    "LightBleed": 35,
+    "HeavyBleed": 40,
+    "DurabilityBurn": 20,
+    "Heat": 91,
+    "Speed": 440,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+}]
