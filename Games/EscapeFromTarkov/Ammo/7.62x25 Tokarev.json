@@ -1,0 +1,149 @@
+[{
+    "Name": "TT AKBS",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 12,
+    "ArmorDamage": 32,
+    "Accuracy": 15,
+    "Recoil": -15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -5.6,
+    "Speed": 425,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "TT FMJ43",
+    "Damage": 60,
+    "Projectiles": 1,
+    "Penetration": 11,
+    "ArmorDamage": 29,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -2.6,
+    "Speed": 427,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "TT LRN",
+    "Damage": 64,
+    "Projectiles": 1,
+    "Penetration": 8,
+    "ArmorDamage": 28,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 15,
+    "Heat": 6.2,
+    "Speed": 375,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "TT LRNPC",
+    "Damage": 66,
+    "Projectiles": 1,
+    "Penetration": 7,
+    "ArmorDamage": 27,
+    "Accuracy": 10,
+    "Recoil": -10,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 15,
+    "Heat": 6.8,
+    "Speed": 385,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "TT P gl",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 14,
+    "ArmorDamage": 32,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -4.4,
+    "Speed": 430,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "TT Pst gzh",
+    "Damage": 50,
+    "Projectiles": 1,
+    "Penetration": 25,
+    "ArmorDamage": 36,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 40,
+    "Heat": 7.4,
+    "Speed": 430,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "TT PT gzh T",
+    "Damage": 55,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 34,
+    "Accuracy": -10,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 18,
+    "Speed": 415,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+}
+]
