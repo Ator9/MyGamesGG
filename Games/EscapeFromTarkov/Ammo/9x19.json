@@ -1,5 +1,5 @@
 [{
-    "Name": "9x19mm AP 6.3",
+    "Name": "AP 6.3",
     "Damage": 52,
     "Projectiles": 1,
     "Penetration": 30,
@@ -25,7 +25,7 @@
         }
     ]
 },{
-    "Name": "9x19mm FMJ M882",
+    "Name": "FMJ M882",
     "Damage": 56,
     "Projectiles": 1,
     "Penetration": 18,
@@ -46,7 +46,7 @@
         }
     ]
 },{
-    "Name": "9x19mm Green Tracer T",
+    "Name": "Green Tracer T",
     "Damage": 58,
     "Projectiles": 1,
     "Penetration": 14,
@@ -67,7 +67,7 @@
         }
     ]
 },{
-    "Name": "9x19mm Luger CCI",
+    "Name": "Luger CCI",
     "Damage": 70,
     "Projectiles": 1,
     "Penetration": 10,
@@ -93,7 +93,7 @@
         }
     ]
 },{
-    "Name": "9x19mm PBP gzh",
+    "Name": "PBP gzh",
     "Damage": 44,
     "Projectiles": 1,
     "Penetration": 39,
@@ -114,7 +114,7 @@
         }
     ]
 },{
-    "Name": "9x19mm PSO gzh S",
+    "Name": "PSO gzh S",
     "Damage": 59,
     "Projectiles": 1,
     "Penetration": 10,
@@ -140,7 +140,7 @@
         }
     ]
 },{
-    "Name": "9x19mm Pst gzh",
+    "Name": "Pst gzh",
     "Damage": 54,
     "Projectiles": 1,
     "Penetration": 20,
@@ -166,7 +166,7 @@
         }
     ]
 },{
-    "Name": "9x19mm QuakeMaker S",
+    "Name": "QuakeMaker S",
     "Damage": 85,
     "Projectiles": 1,
     "Penetration": 8,
@@ -187,7 +187,7 @@
         }
     ]
 },{
-    "Name": "9x19mm RIP",
+    "Name": "RIP",
     "Damage": 102,
     "Projectiles": 1,
     "Penetration": 2,
