@@ -1,0 +1,233 @@
+[{
+    "Name": "5.6mm Buckshot",
+    "Damage": 26,
+    "Projectiles": 8,
+    "Penetration": 1,
+    "ArmorDamage": 12,
+    "Accuracy": -10,
+    "Recoil": -10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 81.6,
+    "Speed": 340,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "6.2mm Buckshot",
+    "Damage": 22,
+    "Projectiles": 8,
+    "Penetration": 2,
+    "ArmorDamage": 13,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 83.9,
+    "Speed": 410,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.3mm Buckshot",
+    "Damage": 23,
+    "Projectiles": 9,
+    "Penetration": 3,
+    "ArmorDamage": 13,
+    "Accuracy": 0,
+    "Recoil": 15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 30,
+    "Heat": 95.2,
+    "Speed": 475,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.5mm Buckshot",
+    "Damage": 25,
+    "Projectiles": 8,
+    "Penetration": 3,
+    "ArmorDamage": 14,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 93,
+    "Speed": 430,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Dangerous Game Slug",
+    "Damage": 47,
+    "Projectiles": 1,
+    "Penetration": 25,
+    "ArmorDamage": 47,
+    "Accuracy": 60,
+    "Recoil": 40,
+    "LightBleed": 20,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 104,
+    "Heat": 134,
+    "Speed": 476,
+    "FragmentationChance": 134,
+    "Vendors": [
+        {
+            "Name": "Jaeger (Barter)",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "Devastator Slug",
+    "Damage": 198,
+    "Projectiles": 1,
+    "Penetration": 5,
+    "ArmorDamage": 13,
+    "Accuracy": 125,
+    "Recoil": 30,
+    "LightBleed": 20,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 50,
+    "Heat": 104.3,
+    "Speed": 405,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Flechette",
+    "Damage": 24,
+    "Projectiles": 8,
+    "Penetration": 24,
+    "ArmorDamage": 24,
+    "Accuracy": -10,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 55,
+    "Heat": 113,
+    "Speed": 400,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger (Barter)",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Poleva-3 Slug",
+    "Damage": 120,
+    "Projectiles": 1,
+    "Penetration": 14,
+    "ArmorDamage": 35,
+    "Accuracy": 110,
+    "Recoil": -15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 106.6,
+    "Speed": 425,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Poleva-6u Slug",
+    "Damage": 135,
+    "Projectiles": 1,
+    "Penetration": 17,
+    "ArmorDamage": 40,
+    "Accuracy": 110,
+    "Recoil": -10,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 80,
+    "Heat": 124.7,
+    "Speed": 445,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Star Slug",
+    "Damage": 154,
+    "Projectiles": 1,
+    "Penetration": 16,
+    "ArmorDamage": 42,
+    "Accuracy": 130,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 80,
+    "Heat": 127,
+    "Speed": 415,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "TSS Armor Piercing Slug",
+    "Damage": 155,
+    "Projectiles": 1,
+    "Penetration": 30,
+    "ArmorDamage": 54,
+    "Accuracy": 64,
+    "Recoil": 48,
+    "LightBleed": 20,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 121,
+    "Heat": 144,
+    "Speed": 482,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger (Barter)",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+}
+]
