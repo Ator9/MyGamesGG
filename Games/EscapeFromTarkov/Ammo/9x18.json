@@ -1,0 +1,307 @@
+[{
+    "Name": "9x18mm PM BZhT gzh S",
+    "Damage": 53,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 28,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 15,
+    "Heat": 4.3,
+    "Speed": 325,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x18mm PM P gzh S",
+    "Damage": 50,
+    "Projectiles": 1,
+    "Penetration": 5,
+    "ArmorDamage": 16,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 10,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -7.1,
+    "Speed": 302,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PBM gzh",
+    "Damage": 40,
+    "Projectiles": 1,
+    "Penetration": 28,
+    "ArmorDamage": 30,
+    "Accuracy": 0,
+    "Recoil": 4,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 70,
+    "Heat": 14,
+    "Speed": 519,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x18mm PM PPe gzh S",
+    "Damage": 61,
+    "Projectiles": 1,
+    "Penetration": 7,
+    "ArmorDamage": 15,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -7.4,
+    "Speed": 297,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PPT gzh S T",
+    "Damage": 59,
+    "Projectiles": 1,
+    "Penetration": 8,
+    "ArmorDamage": 22,
+    "Accuracy": -5,
+    "Recoil": -7,
+    "LightBleed": 15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 3.2,
+    "Speed": 301,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PRS gs S",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 6,
+    "ArmorDamage": 16,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -9.9,
+    "Speed": 302,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PS gs PPO S",
+    "Damage": 55,
+    "Projectiles": 1,
+    "Penetration": 6,
+    "ArmorDamage": 16,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -8.2,
+    "Speed": 330,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PSO gzh S",
+    "Damage": 54,
+    "Projectiles": 1,
+    "Penetration": 5,
+    "ArmorDamage": 13,
+    "Accuracy": 10,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -9.4,
+    "Speed": 315,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM Pst gzh S",
+    "Damage": 50,
+    "Projectiles": 1,
+    "Penetration": 12,
+    "ArmorDamage": 26,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 3.7,
+    "Speed": 298,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM PSV S",
+    "Damage": 69,
+    "Projectiles": 1,
+    "Penetration": 3,
+    "ArmorDamage": 5,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 10,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -8.8,
+    "Speed": 280,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x18mm PM RG028 gzh S",
+    "Damage": 65,
+    "Projectiles": 1,
+    "Penetration": 13,
+    "ArmorDamage": 26,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -7.7,
+    "Speed": 330,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PM SP7 gzh",
+    "Damage": 77,
+    "Projectiles": 1,
+    "Penetration": 2,
+    "ArmorDamage": 5,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 25,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 0,
+    "Heat": -6.5,
+    "Speed": 420,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "You've Got Mail"
+        }
+    ]
+},{
+    "Name": "9x18mm PM SP8 gzh S",
+    "Damage": 67,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 2,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 15,
+    "HeavyBleed": 10,
+    "DurabilityBurn": -20,
+    "Heat": -14.5,
+    "Speed": 250,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x18mm PMM PstM gzh O",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 24,
+    "ArmorDamage": 33,
+    "Accuracy": 0,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 60,
+    "Heat": 8.3,
+    "Speed": 420,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
