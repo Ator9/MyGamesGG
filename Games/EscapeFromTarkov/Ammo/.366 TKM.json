@@ -1,0 +1,78 @@
+[{
+    "Name": "AP-M FMJ",
+    "Damage": 90,
+    "Penetration": 42,
+    "ArmorDamage": 60,
+    "Accuracy": -22,
+    "Recoil": 35,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 90,
+    "Heat": 127,
+    "Speed": 602,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "The Tarkov Shooter - Part 3"
+        }
+    ]
+},{
+    "Name": "EKO",
+    "Damage": 73,
+    "Penetration": 30,
+    "ArmorDamage": 40,
+    "Accuracy": -10,
+    "Recoil": -15,
+    "LightBleed": 0,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 0,
+    "Heat": 81.6,
+    "Speed": 770,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "FMJ",
+    "Damage": 98,
+    "Penetration": 23,
+    "ArmorDamage": 48,
+    "Accuracy": 0,
+    "Recoil": 10,
+    "LightBleed": 20,
+    "HeavyBleed": 25,
+    "DurabilityBurn": 0,
+    "Heat": 83.9,
+    "Speed": 580,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "Geksa",
+    "Damage": 110,
+    "Penetration": 14,
+    "ArmorDamage": 38,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 30,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 35,
+    "Heat": 104.3,
+    "Speed": 550,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}]
