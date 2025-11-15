@@ -1,0 +1,140 @@
+[{
+    "Name": "BP gs",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 54,
+    "ArmorDamage": 69,
+    "Accuracy": 10,
+    "Recoil": 15,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 61,
+    "Speed": 295,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "FMJ",
+    "Damage": 75,
+    "Projectiles": 1,
+    "Penetration": 17,
+    "ArmorDamage": 28,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 24,
+    "Speed": 330,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "PAB-9 gs",
+    "Damage": 62,
+    "Projectiles": 1,
+    "Penetration": 43,
+    "ArmorDamage": 57,
+    "Accuracy": -15,
+    "Recoil": 10,
+    "LightBleed": 10,
+    "HeavyBleed": 12,
+    "DurabilityBurn": 55,
+    "Heat": 56,
+    "Speed": 320,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "After Test Drive - Part 1"
+        }
+    ]
+},{
+    "Name": "SP-5 gs",
+    "Damage": 71,
+    "Projectiles": 1,
+    "Penetration": 28,
+    "ArmorDamage": 39,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 20,
+    "Heat": 53,
+    "Speed": 290,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "SP-6 gs",
+    "Damage": 60,
+    "Projectiles": 1,
+    "Penetration": 48,
+    "ArmorDamage": 64,
+    "Accuracy": 0,
+    "Recoil": 5,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 45,
+    "Heat": 61,
+    "Speed": 305,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "After Capturing Outposts"
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "SPP gs",
+    "Damage": 68,
+    "Projectiles": 1,
+    "Penetration": 35,
+    "ArmorDamage": 48,
+    "Accuracy": 10,
+    "Recoil": 7,
+    "LightBleed": 10,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 10,
+    "Heat": 45,
+    "Speed": 310,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor (Barter)",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+}
+]
