@@ -1,0 +1,203 @@
+[{
+    "Name": "BP gzh FM",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 47,
+    "ArmorDamage": 63,
+    "Accuracy": -3,
+    "Recoil": 7,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 45,
+    "Heat": 91.6,
+    "Speed": 730,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "The Huntsman Path - Intimidator Ref"
+        },
+        {
+            "Name": "Ref",
+            "Price": 50,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "FMJ",
+    "Damage": 63,
+    "Projectiles": 1,
+    "Penetration": 26,
+    "ArmorDamage": 33,
+    "Accuracy": 2,
+    "Recoil": -2,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 775,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 20,
+            "Level": 2
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "HP",
+    "Damage": 80,
+    "Projectiles": 1,
+    "Penetration": 15,
+    "ArmorDamage": 20,
+    "Accuracy": -5,
+    "Recoil": 5,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 0,
+    "Heat": 7.5,
+    "Speed": 754,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 70,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "MAI AP FM",
+    "Damage": 53,
+    "Projectiles": 1,
+    "Penetration": 58,
+    "ArmorDamage": 76,
+    "Accuracy": -5,
+    "Recoil": 10,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 70,
+    "Heat": 102,
+    "Speed": 875,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "PP gzh",
+    "Damage": 59,
+    "Projectiles": 1,
+    "Penetration": 41,
+    "ArmorDamage": 57,
+    "Accuracy": -1,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 72.5,
+    "Speed": 732,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 40,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "PS gzh",
+    "Damage": 61,
+    "Projectiles": 1,
+    "Penetration": 35,
+    "ArmorDamage": 52,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 12.5,
+    "Speed": 717,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 30,
+            "Level": 3,
+            "Quest": "The Punisher - Part 1"
+        }
+    ]
+},{
+    "Name": "SP",
+    "Damage": 68,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 27,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 5,
+    "HeavyBleed": 5,
+    "DurabilityBurn": 0,
+    "Heat": 4.5,
+    "Speed": 772,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 60,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "T-45M1 gzh T",
+    "Damage": 65,
+    "Projectiles": 1,
+    "Penetration": 30,
+    "ArmorDamage": 46,
+    "Accuracy": -4,
+    "Recoil": -6,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 20,
+    "Speed": 720,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 35,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "US gzh S",
+    "Damage": 56,
+    "Projectiles": 1,
+    "Penetration": 29,
+    "ArmorDamage": 42,
+    "Accuracy": 5,
+    "Recoil": -30,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -20,
+    "Heat": -10.4,
+    "Speed": 301,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 25,
+            "Level": 3
+        }
+    ]
+}
+]
