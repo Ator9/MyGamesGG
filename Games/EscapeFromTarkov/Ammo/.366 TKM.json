@@ -1,6 +1,7 @@
 [{
     "Name": "AP-M FMJ",
     "Damage": 90,
+    "Projectiles": 1,
     "Penetration": 42,
     "ArmorDamage": 60,
     "Accuracy": -22,
@@ -21,6 +22,7 @@
 },{
     "Name": "EKO",
     "Damage": 73,
+    "Projectiles": 1,
     "Penetration": 30,
     "ArmorDamage": 40,
     "Accuracy": -10,
@@ -40,6 +42,7 @@
 },{
     "Name": "FMJ",
     "Damage": 98,
+    "Projectiles": 1,
     "Penetration": 23,
     "ArmorDamage": 48,
     "Accuracy": 0,
@@ -59,6 +62,7 @@
 },{
     "Name": "Geksa",
     "Damage": 110,
+    "Projectiles": 1,
     "Penetration": 14,
     "ArmorDamage": 38,
     "Accuracy": 0,
