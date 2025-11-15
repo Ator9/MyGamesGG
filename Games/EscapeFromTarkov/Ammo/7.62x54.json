@@ -1,0 +1,219 @@
+[{
+    "Name": "7.62x54 R BS gs",
+    "Damage": 72,
+    "Projectiles": 1,
+    "Penetration": 70,
+    "ArmorDamage": 88,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 70,
+    "Heat": 157,
+    "Speed": 785,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "7.62x54 R BT gzh T",
+    "Damage": 78,
+    "Projectiles": 1,
+    "Penetration": 55,
+    "ArmorDamage": 87,
+    "Accuracy": -2,
+    "Recoil": -4,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 144.2,
+    "Speed": 875,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 4
+        },{
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "The Tarkov Shooter - Part 7"
+        }
+    ]
+},{
+    "Name": "7.62x54 R FMJ",
+    "Damage": 84,
+    "Projectiles": 1,
+    "Penetration": 36,
+    "ArmorDamage": 63,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 53.4,
+    "Speed": 760,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.62x54 R HP BT",
+    "Damage": 102,
+    "Projectiles": 1,
+    "Penetration": 26,
+    "ArmorDamage": 37,
+    "Accuracy": 10,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -15,
+    "Heat": 35.7,
+    "Speed": 807,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "7.62x54 R LPS gzh",
+    "Damage": 81,
+    "Projectiles": 1,
+    "Penetration": 42,
+    "ArmorDamage": 78,
+    "Accuracy": -5,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 10,
+    "Heat": 131.3,
+    "Speed": 865,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.62x54 R PS gzh",
+    "Damage": 84,
+    "Projectiles": 1,
+    "Penetration": 45,
+    "ArmorDamage": 84,
+    "Accuracy": 10,
+    "Recoil": 8,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 118.5,
+    "Speed": 875,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "The Punisher - Part 6"
+        }
+    ]
+},{
+    "Name": "7.62x54 R SNB gzh",
+    "Damage": 75,
+    "Projectiles": 1,
+    "Penetration": 62,
+    "ArmorDamage": 87,
+    "Accuracy": 0,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 133.9,
+    "Speed": 875,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "7.62x54 R SP BT",
+    "Damage": 92,
+    "Projectiles": 1,
+    "Penetration": 31,
+    "ArmorDamage": 56,
+    "Accuracy": 7,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -10,
+    "Heat": 42.3,
+    "Speed": 706,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 1,
+            "Quest": "Supplier"
+        }
+    ]
+},{
+    "Name": "7.62x54 R T-46M gzh T",
+    "Damage": 82,
+    "Projectiles": 1,
+    "Penetration": 41,
+    "ArmorDamage": 83,
+    "Accuracy": -1,
+    "Recoil": -5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 105.6,
+    "Speed": 800,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "7.62x54 R Tungsten Carbide AP",
+    "Damage": 98,
+    "Projectiles": 1,
+    "Penetration": 61,
+    "ArmorDamage": 94,
+    "Accuracy": 10,
+    "Recoil": 10,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 70,
+    "Heat": 102,
+    "Speed": 984,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Arena Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+}
+]
