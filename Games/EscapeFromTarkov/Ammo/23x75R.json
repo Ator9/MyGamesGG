@@ -1,0 +1,97 @@
+[{
+    "Name": "23x75mm Barrikada Slug",
+    "Damage": 192,
+    "Projectiles": 1,
+    "Penetration": 39,
+    "ArmorDamage": 75,
+    "Accuracy": -5,
+    "Recoil": 25,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 170,
+    "Heat": 232.5,
+    "Speed": 420,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},
+{
+    "Name": "23x75mm Shrapnel-10 Buckshot",
+    "Damage": 87,
+    "Projectiles": 8,
+    "Penetration": 11,
+    "ArmorDamage": 20,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 180,
+    "Speed": 270,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "23x75mm Shrapnel-25 Buckshot",
+    "Damage": 78,
+    "Projectiles": 8,
+    "Penetration": 10,
+    "ArmorDamage": 20,
+    "Accuracy": 20,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 80,
+    "Heat": 197.5,
+    "Speed": 375,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "23x75mm Zvezda Flashbang Round",
+    "Damage": 0,
+    "Projectiles": 0,
+    "Penetration": 0,
+    "ArmorDamage": 0,
+    "Accuracy": 0,
+    "Recoil": 20,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 300,
+    "Heat": 250,
+    "Speed": 80,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "Counteraction"
+        },{
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Our Own Land"
+        },{
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+}
+]
