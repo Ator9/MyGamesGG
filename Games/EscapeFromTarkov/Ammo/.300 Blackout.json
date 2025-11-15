@@ -1,0 +1,135 @@
+[{
+    "Name": ".300 Blackout AP",
+    "Damage": 51,
+    "Projectiles": 1,
+    "Penetration": 48,
+    "ArmorDamage": 65,
+    "Accuracy": 0,
+    "Recoil": 3,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 50,
+    "Heat": 99,
+    "Speed": 635,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "The Cleaner Path - Wet Job - Part 1"
+        }
+    ]
+},{
+    "Name": ".300 Blackout BCP FMJ",
+    "Damage": 60,
+    "Projectiles": 1,
+    "Penetration": 30,
+    "ArmorDamage": 36,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 59.2,
+    "Speed": 605,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": ".300 Blackout CBJ FM",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 43,
+    "ArmorDamage": 57,
+    "Accuracy": 0,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 34,
+    "Speed": 725,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ragman",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": ".300 Blackout M62 Tracer T",
+    "Damage": 54,
+    "Projectiles": 1,
+    "Penetration": 36,
+    "ArmorDamage": 40,
+    "Accuracy": 0,
+    "Recoil": 1,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 25,
+    "Speed": 442,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Wet Job - Part 1"
+        }
+    ]
+},{
+    "Name": ".300 Blackout V-Max",
+    "Damage": 72,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 25,
+    "Accuracy": 30,
+    "Recoil": -10,
+    "LightBleed": 22,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 10,
+    "Heat": 80,
+    "Speed": 723,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": ".300 Whisper",
+    "Damage": 90,
+    "Projectiles": 1,
+    "Penetration": 14,
+    "ArmorDamage": 19,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 0,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 5,
+    "Heat": 97,
+    "Speed": 853,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
