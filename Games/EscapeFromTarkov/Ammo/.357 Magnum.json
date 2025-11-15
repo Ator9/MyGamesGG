@@ -1,0 +1,88 @@
+[{
+    "Name": "FMJ",
+    "Damage": 70,
+    "Projectiles": 1,
+    "Penetration": 35,
+    "ArmorDamage": 43,
+    "Accuracy": 0,
+    "Recoil": 12,
+    "LightBleed": 0,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 50,
+    "Heat": 28,
+    "Speed": 385,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "HP",
+    "Damage": 99,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 20,
+    "Accuracy": 15,
+    "Recoil": 15,
+    "LightBleed": 40,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 60,
+    "Heat": 44,
+    "Speed": 481,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},
+{
+    "Name": "JHP",
+    "Damage": 88,
+    "Projectiles": 1,
+    "Penetration": 24,
+    "ArmorDamage": 28,
+    "Accuracy": 15,
+    "Recoil": 8,
+    "LightBleed": 25,
+    "HeavyBleed": 25,
+    "DurabilityBurn": 40,
+    "Heat": 28,
+    "Speed": 425,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},
+{
+    "Name": "SP",
+    "Damage": 108,
+    "Projectiles": 1,
+    "Penetration": 12,
+    "ArmorDamage": 15,
+    "Accuracy": 27,
+    "Recoil": -29,
+    "LightBleed": 35,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 30,
+    "Heat": -7,
+    "Speed": 455,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
