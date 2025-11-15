@@ -1,0 +1,171 @@
+[{
+    "Name": "L191 T",
+    "Damage": 53,
+    "Projectiles": 1,
+    "Penetration": 33,
+    "ArmorDamage": 41,
+    "Accuracy": -4,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 11.2,
+    "Speed": 715,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "R37.F",
+    "Damage": 98,
+    "Projectiles": 1,
+    "Penetration": 8,
+    "ArmorDamage": 7,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 20,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 0,
+    "Heat": -2.9,
+    "Speed": 729,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Gunsmith - Part 9"
+        }
+    ]
+},{
+    "Name": "R37.X",
+    "Damage": 81,
+    "Projectiles": 1,
+    "Penetration": 11,
+    "ArmorDamage": 9,
+    "Accuracy": -5,
+    "Recoil": 0,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 0,
+    "Heat": -1.7,
+    "Speed": 724,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "SB193 S FM",
+    "Damage": 59,
+    "Projectiles": 1,
+    "Penetration": 27,
+    "ArmorDamage": 37,
+    "Accuracy": 5,
+    "Recoil": 0,
+    "LightBleed": -15,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -25,
+    "Heat": -6.4,
+    "Speed": 299,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "SS190",
+    "Damage": 49,
+    "Projectiles": 1,
+    "Penetration": 37,
+    "ArmorDamage": 43,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 20,
+    "Heat": 17,
+    "Speed": 715,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "SS197SR",
+    "Damage": 62,
+    "Projectiles": 1,
+    "Penetration": 25,
+    "ArmorDamage": 22,
+    "Accuracy": 10,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -20,
+    "Heat": 0,
+    "Speed": 594,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2,
+            "Quest": "after Scrap Metal"
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "SS198LF",
+    "Damage": 70,
+    "Projectiles": 1,
+    "Penetration": 17,
+    "ArmorDamage": 19,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -0.6,
+    "Speed": 792,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
