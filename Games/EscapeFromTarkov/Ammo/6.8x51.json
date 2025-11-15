@@ -1,0 +1,50 @@
+[{
+    "Name": "SIG FMJ",
+    "Damage": 80,
+    "Projectiles": 1,
+    "Penetration": 36,
+    "ArmorDamage": 49,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 136,
+    "Speed": 899,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "SIG Hybrid FM",
+    "Damage": 72,
+    "Projectiles": 1,
+    "Penetration": 47,
+    "ArmorDamage": 58,
+    "Accuracy": 3,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 153,
+    "Speed": 914,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "Trouble in the Big City"
+        }
+    ]
+}
+]
