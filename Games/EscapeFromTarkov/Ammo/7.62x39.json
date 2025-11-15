@@ -1,5 +1,5 @@
 [{
-    "Name": "BP gzh FM",
+    "Name": "BP gzh",
     "Damage": 58,
     "Projectiles": 1,
     "Penetration": 47,
@@ -73,7 +73,7 @@
         }
     ]
 },{
-    "Name": "MAI AP FM",
+    "Name": "MAI AP",
     "Damage": 53,
     "Projectiles": 1,
     "Penetration": 58,
