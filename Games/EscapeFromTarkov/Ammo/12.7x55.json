@@ -1,0 +1,74 @@
+[{
+    "Name": "PS12 S",
+    "Damage": 115,
+    "Projectiles": 1,
+    "Penetration": 28,
+    "ArmorDamage": 60,
+    "Accuracy": 10,
+    "Recoil": 0,
+    "LightBleed": 30,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 40,
+    "Heat": 138.5,
+    "Speed": 300,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "PS12A",
+    "Damage": 165,
+    "Projectiles": 1,
+    "Penetration": 10,
+    "ArmorDamage": 22,
+    "Accuracy": -15,
+    "Recoil": -12,
+    "LightBleed": 35,
+    "HeavyBleed": 30,
+    "DurabilityBurn": 0,
+    "Heat": 113.4,
+    "Speed": 870,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "PS12B",
+    "Damage": 102,
+    "Projectiles": 1,
+    "Penetration": 46,
+    "ArmorDamage": 57,
+    "Accuracy": 0,
+    "Recoil": 15,
+    "LightBleed": 0,
+    "HeavyBleed": 15,
+    "DurabilityBurn": 80,
+    "Heat": 151,
+    "Speed": 570,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+}]
