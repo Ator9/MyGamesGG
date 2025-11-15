@@ -1,5 +1,5 @@
 [{
-    "Name": "9x18mm PM BZhT gzh S",
+    "Name": "PM BZhT gzh S",
     "Damage": 53,
     "Projectiles": 1,
     "Penetration": 18,
@@ -20,7 +20,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM P gzh S",
+    "Name": "PM P gzh S",
     "Damage": 50,
     "Projectiles": 1,
     "Penetration": 5,
@@ -41,7 +41,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PBM gzh",
+    "Name": "PM PBM gzh",
     "Damage": 40,
     "Projectiles": 1,
     "Penetration": 28,
@@ -62,7 +62,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PPe gzh S",
+    "Name": "PM PPe gzh S",
     "Damage": 61,
     "Projectiles": 1,
     "Penetration": 7,
@@ -83,7 +83,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PPT gzh S T",
+    "Name": "PM PPT gzh S T",
     "Damage": 59,
     "Projectiles": 1,
     "Penetration": 8,
@@ -104,7 +104,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PRS gs S",
+    "Name": "PM PRS gs S",
     "Damage": 58,
     "Projectiles": 1,
     "Penetration": 6,
@@ -125,7 +125,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PS gs PPO S",
+    "Name": "PM PS gs PPO S",
     "Damage": 55,
     "Projectiles": 1,
     "Penetration": 6,
@@ -146,7 +146,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PSO gzh S",
+    "Name": "PM PSO gzh S",
     "Damage": 54,
     "Projectiles": 1,
     "Penetration": 5,
@@ -167,7 +167,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM Pst gzh S",
+    "Name": "PM Pst gzh S",
     "Damage": 50,
     "Projectiles": 1,
     "Penetration": 12,
@@ -188,7 +188,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM PSV S",
+    "Name": "PM PSV S",
     "Damage": 69,
     "Projectiles": 1,
     "Penetration": 3,
@@ -209,7 +209,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM RG028 gzh S",
+    "Name": "PM RG028 gzh S",
     "Damage": 65,
     "Projectiles": 1,
     "Penetration": 13,
@@ -230,7 +230,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM SP7 gzh",
+    "Name": "PM SP7 gzh",
     "Damage": 77,
     "Projectiles": 1,
     "Penetration": 2,
@@ -252,7 +252,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PM SP8 gzh S",
+    "Name": "PM SP8 gzh S",
     "Damage": 67,
     "Projectiles": 1,
     "Penetration": 1,
@@ -278,7 +278,7 @@
         }
     ]
 },{
-    "Name": "9x18mm PMM PstM gzh O",
+    "Name": "PMM PstM gzh O",
     "Damage": 58,
     "Projectiles": 1,
     "Penetration": 24,
