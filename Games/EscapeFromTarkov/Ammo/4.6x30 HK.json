@@ -1,0 +1,109 @@
+[{
+    "Name": "Action SX",
+    "Damage": 65,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 28,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": -1,
+    "Speed": 690,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "AP SX FM",
+    "Damage": 35,
+    "Projectiles": 1,
+    "Penetration": 53,
+    "ArmorDamage": 46,
+    "Accuracy": 0,
+    "Recoil": 10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 50,
+    "Heat": 10,
+    "Speed": 680,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "The Guide - Part 8"
+        }
+    ]
+},{
+    "Name": "FMJ SX",
+    "Damage": 43,
+    "Projectiles": 1,
+    "Penetration": 40,
+    "ArmorDamage": 41,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 620,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "Import - Part 5"
+        }
+    ]
+},{
+    "Name": "JSP SX",
+    "Damage": 46,
+    "Projectiles": 1,
+    "Penetration": 32,
+    "ArmorDamage": 37,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -10,
+    "Heat": -1,
+    "Speed": 579,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "Subsonic SX S",
+    "Damage": 52,
+    "Projectiles": 1,
+    "Penetration": 23,
+    "ArmorDamage": 33,
+    "Accuracy": 10,
+    "Recoil": -22,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": -30,
+    "Heat": -12,
+    "Speed": 290,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+}
+]
