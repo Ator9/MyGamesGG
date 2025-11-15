@@ -1,0 +1,214 @@
+[{
+    "Name": "7.62x51mm Ball 11 Long Range",
+    "Damage": 95,
+    "Projectiles": 1,
+    "Penetration": 59,
+    "ArmorDamage": 88,
+    "Accuracy": 15,
+    "Recoil": 15,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 70,
+    "Heat": 102,
+    "Speed": 805,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Arena Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "7.62x51mm BCP FMJ",
+    "Damage": 83,
+    "Projectiles": 1,
+    "Penetration": 37,
+    "ArmorDamage": 56,
+    "Accuracy": 0,
+    "Recoil": 12,
+    "LightBleed": 12,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 800,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.62x51mm M61",
+    "Damage": 75,
+    "Projectiles": 1,
+    "Penetration": 55,
+    "ArmorDamage": 74,
+    "Accuracy": -2,
+    "Recoil": 3,
+    "LightBleed": 7,
+    "HeavyBleed": 7,
+    "DurabilityBurn": 40,
+    "Heat": 30,
+    "Speed": 838,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ragman",
+            "Price": 0,
+            "Level": 4
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Wet Job - Part 6"
+        }
+    ]
+},{
+    "Name": "7.62x51mm M62 Tracer T",
+    "Damage": 82,
+    "Projectiles": 1,
+    "Penetration": 42,
+    "ArmorDamage": 65,
+    "Accuracy": -5,
+    "Recoil": 1,
+    "LightBleed": 10,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 15,
+    "Heat": 25,
+    "Speed": 838,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "7.62x51mm M80",
+    "Damage": 80,
+    "Projectiles": 1,
+    "Penetration": 43,
+    "ArmorDamage": 67,
+    "Accuracy": -3,
+    "Recoil": 1,
+    "LightBleed": 8,
+    "HeavyBleed": 8,
+    "DurabilityBurn": 12,
+    "Heat": 10,
+    "Speed": 838,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4,
+            "Quest": "Revision - Lighthouse"
+        }
+    ]
+},{
+    "Name": "7.62x51mm M80A1",
+    "Damage": 73,
+    "Projectiles": 1,
+    "Penetration": 60,
+    "ArmorDamage": 79,
+    "Accuracy": -1,
+    "Recoil": 4,
+    "LightBleed": 6,
+    "HeavyBleed": 6,
+    "DurabilityBurn": 50,
+    "Heat": 35,
+    "Speed": 899,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+
+    "Name": "7.62x51mm M993",
+    "Damage": 70,
+    "Projectiles": 1,
+    "Penetration": 65,
+    "ArmorDamage": 85,
+    "Accuracy": -4,
+    "Recoil": 6,
+    "LightBleed": 5,
+    "HeavyBleed": 5,
+    "DurabilityBurn": 65,
+    "Heat": 50,
+    "Speed": 930,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot Only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "7.62x51mm TCW SP",
+    "Damage": 85,
+    "Projectiles": 1,
+    "Penetration": 30,
+    "ArmorDamage": 25,
+    "Accuracy": -1,
+    "Recoil": -3,
+    "LightBleed": 15,
+    "HeavyBleed": 15,
+    "DurabilityBurn": -2,
+    "Heat": -15,
+    "Speed": 771,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Skier",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Ref",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "7.62x51mm Ultra Nosler",
+    "Damage": 105,
+    "Projectiles": 1,
+    "Penetration": 15,
+    "ArmorDamage": 40,
+    "Accuracy": 5,
+    "Recoil": -5,
+    "LightBleed": 20,
+    "HeavyBleed": 20,
+    "DurabilityBurn": -5,
+    "Heat": -10,
+    "Speed": 823,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+}
+]
