@@ -1,0 +1,211 @@
+[{
+    "Name": "9x19mm AP 6.3",
+    "Damage": 52,
+    "Projectiles": 1,
+    "Penetration": 30,
+    "ArmorDamage": 48,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 35,
+    "Heat": 13.6,
+    "Speed": 392,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 3
+        }
+    ]
+},{
+    "Name": "9x19mm FMJ M882",
+    "Damage": 56,
+    "Projectiles": 1,
+    "Penetration": 18,
+    "ArmorDamage": 35,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 5,
+    "Heat": 7.1,
+    "Speed": 385,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x19mm Green Tracer T",
+    "Damage": 58,
+    "Projectiles": 1,
+    "Penetration": 14,
+    "ArmorDamage": 33,
+    "Accuracy": -5,
+    "Recoil": 6,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 15,
+    "Heat": 13.1,
+    "Speed": 365,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x19mm Luger CCI",
+    "Damage": 70,
+    "Projectiles": 1,
+    "Penetration": 10,
+    "ArmorDamage": 38,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 20,
+    "HeavyBleed": 20,
+    "DurabilityBurn": 10,
+    "Heat": -4.8,
+    "Speed": 420,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 3
+        },
+        {
+            "Name": "Workbench",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x19mm PBP gzh",
+    "Damage": 44,
+    "Projectiles": 1,
+    "Penetration": 39,
+    "ArmorDamage": 55,
+    "Accuracy": 5,
+    "Recoil": 5,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 170,
+    "Heat": 19,
+    "Speed": 560,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "9x19mm PSO gzh S",
+    "Damage": 59,
+    "Projectiles": 1,
+    "Penetration": 10,
+    "ArmorDamage": 32,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 1.2,
+    "Heat": 0,
+    "Speed": 340,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 1
+        },
+        {
+            "Name": "Jaeger",
+            "Price": 0,
+            "Level": 1
+        }
+    ]
+},{
+    "Name": "9x19mm Pst gzh",
+    "Damage": 54,
+    "Projectiles": 1,
+    "Penetration": 20,
+    "ArmorDamage": 33,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 117,
+    "Heat": 7.1,
+    "Speed": 457,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Prapor",
+            "Price": 0,
+            "Level": 2
+        },
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 2
+        }
+    ]
+},{
+    "Name": "9x19mm QuakeMaker S",
+    "Damage": 85,
+    "Projectiles": 1,
+    "Penetration": 8,
+    "ArmorDamage": 22,
+    "Accuracy": 10,
+    "Recoil": 10,
+    "LightBleed": 15,
+    "HeavyBleed": 22,
+    "DurabilityBurn": 10,
+    "Heat": -1.8,
+    "Speed": 290,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+},{
+    "Name": "9x19mm RIP",
+    "Damage": 102,
+    "Projectiles": 1,
+    "Penetration": 2,
+    "ArmorDamage": 11,
+    "Accuracy": 0,
+    "Recoil": 5,
+    "LightBleed": 30,
+    "HeavyBleed": 10,
+    "DurabilityBurn": 20,
+    "Heat": 8.3,
+    "Speed": 381,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Mechanic",
+            "Price": 0,
+            "Level": 4
+        }
+    ]
+}
+]
