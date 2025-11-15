@@ -1,0 +1,129 @@
+[{
+    "Name": "M381 (HE) grenade S FM",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 95,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 76,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "M386 (HE) grenade S",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 95,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 76,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Peacekeeper",
+            "Price": 0,
+            "Level": 3,
+            "Quest": "Worst Job in the World"
+        }
+    ]
+},{
+    "Name": "M406 (HE) grenade S",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 95,
+    "Accuracy": 15,
+    "Recoil": -10,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 76,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "M433 (HEDP) grenade S FM",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 95,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 76,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "M441 (HE) grenade S FM",
+    "Damage": 199,
+    "Projectiles": 1,
+    "Penetration": 1,
+    "ArmorDamage": 95,
+    "Accuracy": 0,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 76,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+},{
+    "Name": "M576 (MP-APERS) grenade S",
+    "Damage": 160,
+    "Projectiles": 15,
+    "Penetration": 5,
+    "ArmorDamage": 0,
+    "Accuracy": 100,
+    "Recoil": 0,
+    "LightBleed": 0,
+    "HeavyBleed": 0,
+    "DurabilityBurn": 0,
+    "Heat": 0,
+    "Speed": 269,
+    "FragmentationChance": 0,
+    "Vendors": [
+        {
+            "Name": "Loot only",
+            "Price": 0,
+            "Level": 0
+        }
+    ]
+}
+]
